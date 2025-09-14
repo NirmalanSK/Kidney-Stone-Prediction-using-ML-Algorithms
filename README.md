@@ -14,9 +14,8 @@ The goal is to assist in **early detection and prevention** by analyzing health 
   - Other relevant health indicators
 - The target variable is whether the patient has **Kidney Stones (Yes/No)**.
 
-*(Add dataset source here if available, e.g., Kaggle or hospital dataset)*
 
-## ⚙️ Technologies Used
+##  Technologies Used
 - Python 
 - Jupyter Notebook
 - Libraries:
